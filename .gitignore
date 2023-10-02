@@ -130,3 +130,5 @@ dmypy.json
 
 # mytpu stuff
 .direnv
+**/usage*.json
+
